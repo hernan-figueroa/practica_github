@@ -8,6 +8,10 @@ Agustin
 =======
 luciano
 >>>>>>> Luciano
+<<<<<<< HEAD
 Santiago
 >>>>>>> Santiago
 probando 123
+=======
+----------$#Nico#$
+>>>>>>> Nico
