@@ -10,6 +10,7 @@ luciano
 >>>>>>> Luciano
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Santiago
 >>>>>>> Santiago
 probando 123
@@ -19,3 +20,8 @@ probando 123
 =======
 Facundo
 >>>>>>> NavarroFacundo
+=======
+=======
+Cecilia
+>>>>>>> Cecilia
+>>>>>>> Cecilia
